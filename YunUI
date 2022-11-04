@@ -3982,4 +3982,3 @@ function initLibrary()
         return windowTypes
     end
 end
-local library = initLibrary()
